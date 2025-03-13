@@ -1,1 +1,3 @@
-A curriculum I designed to journey students into investigating the different libraries Python has to offer!
+A curriculum I designed to journey more advanced students into different libraries Python has to offer!
+
+Summer 2023
